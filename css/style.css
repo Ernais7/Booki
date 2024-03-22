@@ -224,6 +224,7 @@ h1 {
   height: 49px;
   border-right: 0;
   border-left: 0;
+  width: 199px;
 }
 
 input[type="text"]:focus {
